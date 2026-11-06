@@ -1,4 +1,4 @@
-# Versions matching the Phase 1 execution environment (Python 3.9.12).
+# Fixed package versions for the project notebook environment (Python 3.9.12).
 pandas==1.4.2
 numpy==1.21.5
 matplotlib==3.5.1
